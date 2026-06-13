@@ -1,0 +1,35 @@
+.main-title {
+    text-align:center;
+    font-size:3rem;
+    font-weight:bold;
+}
+
+.hero {
+    padding:30px;
+    border-radius:20px;
+    background: linear-gradient(
+        135deg,
+        #7C3AED,
+        #2563EB
+    );
+    color:white;
+}
+
+.card {
+    background:#1E293B;
+    border-radius:15px;
+    padding:20px;
+    border:1px solid #334155;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    transition:0.3s;
+}
+
+.metric-card {
+    text-align:center;
+    padding:20px;
+    border-radius:15px;
+    background:#1E293B;
+}

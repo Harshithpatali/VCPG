@@ -1,0 +1,48 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Environment Files
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Testing
+.pytest_cache/
+.coverage
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Exports
+exports/*.txt
+
+# Build
+dist/
+build/
+
+# UV
+uv.lock
+
+# Mypy
+.mypy_cache/
+
+# Ruff
+.ruff_cache/

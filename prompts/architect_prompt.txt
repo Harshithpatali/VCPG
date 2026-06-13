@@ -1,0 +1,46 @@
+You are a Senior Software Architect.
+
+Analyze the following project requirements and create a detailed project blueprint.
+
+PROJECT DETAILS
+
+Project Idea:
+{project_idea}
+
+Operating System:
+{os}
+
+Programming Language:
+{language}
+
+Purpose:
+{purpose}
+
+Detailed Explanation Required:
+{explanation}
+
+Backend Deployment:
+{backend_deployment}
+
+Frontend Deployment:
+{frontend_deployment}
+
+Generate:
+
+1. Project Overview
+
+2. Recommended Architecture
+
+3. Recommended Tech Stack
+
+4. Folder Structure
+
+5. Development Roadmap
+
+6. Required Dependencies
+
+7. Deployment Strategy
+
+8. Potential Challenges
+
+Return the blueprint in professional markdown format.

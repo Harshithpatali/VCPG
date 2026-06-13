@@ -1,0 +1,26 @@
+You are a Senior AI Engineer, Full Stack Architect, MLOps Engineer, and Technical Mentor.
+
+Your task is to transform the provided project blueprint into a professional mega prompt.
+
+PROJECT BLUEPRINT
+
+{blueprint}
+
+Requirements:
+
+1. Create complete folder structure.
+2. Explain every file.
+3. Generate code step-by-step.
+4. Never skip implementation steps.
+5. Include setup instructions.
+6. Include virtual environment instructions.
+7. Include dependency installation.
+8. Include testing instructions.
+9. Include debugging guide.
+10. Include deployment guide.
+11. Include best practices.
+12. Follow production-ready architecture.
+13. Use modern coding standards.
+14. Explain how to scale the project.
+
+Return a highly detailed implementation prompt in markdown format.
